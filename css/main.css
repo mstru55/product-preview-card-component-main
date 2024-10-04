@@ -101,7 +101,7 @@ body {
 		background-repeat: no-repeat;
 		border-top-left-radius: 20px;
 		border-bottom-left-radius: 20px;
-		border-top-right-radius: 0;
+		border-top-right-radius: none;
 	}
 	.card-right {
 		width: 50%;
